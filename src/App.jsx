@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react";
-import Landing from "./components/Landing";
-import Memories from "./components/Memories";
-import Timeline from "./components/Timeline";
-import LoveLetter from "./components/LoveLetter";
-import Songs from "./components/Songs";
-import Reasons from "./components/Reasons";
-import Plans from "./components/Plans";
-import Closing from "./components/Closing";
+import Landing from "./components/Landing.jsx";
+import Memories from "./components/Memories.jsx";
+import Timeline from "./components/Timeline.jsx";
+import LoveLetter from "./components/LoveLetter.jsx";
+import Songs from "./components/Songs.jsx";
+import Reasons from "./components/Reasons.jsx";
+import Plans from "./components/Plans.jsx";
+import Closing from "./components/Closing.jsx";
 
 const GLOBAL_STYLES = `
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Lato:wght@300;400&display=swap');
